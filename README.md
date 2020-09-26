@@ -38,3 +38,6 @@ make
 output:
 
 make: 'semfuel' is up to date.
+
+
+![cppcheck-action](https://github.com/99002518/fuel/workflows/cppcheck-action/badge.svg)
